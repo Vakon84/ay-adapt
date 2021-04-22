@@ -1,5 +1,5 @@
 # ay-adapt
-A PCB to adapt an AY-3-8910 chip to an AY-3-8912
+A PCB to adapt an AY-3-8910 chip to an AY-3-8912 footprint.
 
 AY-3-8912 chips are rare. Not majorly rare, but rare enough to cause issues sourcing them.
 
